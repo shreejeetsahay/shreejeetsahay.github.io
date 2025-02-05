@@ -3,6 +3,9 @@
 I am a first year MS CS student @ University of Virginia.
 [Email](mailto:rge9ts@virginia.edu) | [LinkedIn](https://www.linkedin.com/in/shreejeet-sahay/)
 
+## 🗞️ News
+I am starting a new position as a Graduate Research Assistant under Dr. Hadi Daneshmand at University of Virginia.
+
 ## 📚 Education
 
 **University of Virginia**  
