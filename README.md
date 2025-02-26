@@ -1,6 +1,8 @@
 # Shreejeet Sahay
 ## About Me
-I am a first year MS CS student @ University of Virginia.
+I am a first year MS CS student @ University of Virginia. My research interest lies in **Deep Learning Theory**, and I am currently working as a **Graduate Research Assistant** under [**Dr. Hadi Daneshmand**](https://hadidaneshmand.github.io/dhadi.html).  
+
+
 [Email](mailto:rge9ts@virginia.edu) | [LinkedIn](https://www.linkedin.com/in/shreejeet-sahay/)
 
 ## 📚 Education
