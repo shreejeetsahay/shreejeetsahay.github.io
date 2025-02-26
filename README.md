@@ -18,6 +18,9 @@ Pune, INDIA
 ---
 
 ## 💼 Experience
+**Graduate Research Assistant**
+*University of Virginia – Charlottesville, VA* | *February 2025 – Present*  
+- Working under Dr. Hadi Daneshmand
 
 **Graduate Teaching Assistant**  
 *University of Virginia – Charlottesville, VA* | *September 2024 – Present*  
