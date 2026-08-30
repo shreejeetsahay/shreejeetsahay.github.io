@@ -82,6 +82,7 @@ p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
+  text-align: justify;
 }
 
 strong {
@@ -166,4 +167,43 @@ span.highlight {
     padding: 20px;
     display: inline-block;
     border-radius: 10px;
+}
+
+@media (max-width: 600px) {
+  .hero-table,
+  .hero-table > tbody {
+    display: block;
+    width: 100% !important;
+  }
+
+  .hero-row {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-image,
+  .hero-text {
+    display: block;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+    padding: 12px 20px !important;
+  }
+
+  .hero-image {
+    order: -1;
+    padding-bottom: 0 !important;
+  }
+
+  .hero-image img {
+    display: block;
+    width: 60% !important;
+    max-width: 220px !important;
+    margin: 0 auto !important;
+  }
+
+  .name {
+    padding-top: 16px;
+    font-size: 26px;
+  }
 }
