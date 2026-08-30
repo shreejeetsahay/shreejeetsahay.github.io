@@ -1,0 +1,3 @@
+This is my personal academic website.
+
+I have used design and source code from Jon Barron's website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
